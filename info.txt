@@ -1,0 +1,18 @@
+Bienvenidos al Curso de CYPRESS
+
+1.  npm init
+
+2. npm install cypress --save-dev  --> Instalacion
+
+3. npx instalacion
+3.1--> npm install -g npx  --> Instalar npx
+3.2--> npx cypress --force  --> forzar la instalacion
+
+4. node_modules\.bin\cypress open
+
+5. npx cypress open 
+
+6. Parar Consola --> ctrl + C 
+
+-require('cypress-plugin-tab') //para usar plugin tab
+-require('cypress-xpath');   //para usar selector xpath

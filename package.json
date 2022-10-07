@@ -1,0 +1,27 @@
+{
+  "name": "puntos_colombia",
+  "version": "1.0.0",
+  "description": "Prueba Puntos Colombia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtorol/Puntos_Colombia.git"
+  },
+  "keywords": [
+    "shyknwnl.2022"
+  ],
+  "author": "Wilmer Toro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtorol/Puntos_Colombia/issues"
+  },
+  "homepage": "https://github.com/wtorol/Puntos_Colombia#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}
