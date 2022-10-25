@@ -14,5 +14,7 @@ Bienvenidos al Curso de CYPRESS
 
 6. Parar Consola --> ctrl + C 
 
+npm install -D cypress-plugin-tab
 -require('cypress-plugin-tab') //para usar plugin tab
+
 -require('cypress-xpath');   //para usar selector xpath

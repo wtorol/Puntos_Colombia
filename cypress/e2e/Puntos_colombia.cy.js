@@ -8,7 +8,7 @@ require('cypress-xpath')
 describe(" ", () => {
     let tiempo = 1000;  // definir variable para tiempo de espera
     let password = "MiContraseña";  // variable para definir contraseña
-    let email = "wtoroloz@gmail.com";  // variable para elegir el correo a registrar 
+    let email = "wilmertrader2@gmail.com4";  // variable para elegir el correo a registrar 
 
     before(() => {
         cy.visit("https://www.todotest.com/")
